@@ -1,0 +1,2 @@
+# tarea
+calcular resistencia
