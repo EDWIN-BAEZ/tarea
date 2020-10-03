@@ -1,2 +1,4 @@
-# tarea
-calcular resistencia
+ resistencia
+ Leds
+ calificaciones 
+ ecuación
