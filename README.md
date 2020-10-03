@@ -1,4 +1,0 @@
- resistencia
- Leds
- calificaciones 
- ecuación
